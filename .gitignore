@@ -1,0 +1,14 @@
+# PlatformIO build output and downloaded libraries
+.pio/
+.vscode/
+
+# generated at build time from web/index.html
+src/web_index.h
+
+# fonts downloaded by tools/make_fonts.py
+tools/fonts/
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.DS_Store
